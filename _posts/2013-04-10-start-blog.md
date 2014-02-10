@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 推倒重来，开始写blog
 tags: [blog]
 ---
